@@ -1,6 +1,7 @@
 # 🚀 SQL Practice & Problem Solving Guide
 
-This repository contains a comprehensive collection of SQL problems designed to strengthen your querying skills through a **learn-by-doing** approach.
+This repository contains a comprehensive collection of SQL problems designed to strengthen your querying skills through a **learn-by-doing** approach
+Total Problems (137)
 
 ---
 
