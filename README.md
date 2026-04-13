@@ -7,9 +7,9 @@ Total Problems (137)
 
 # 📘 Table of Contents
 
-1. Introductory Problems (From SQL Practice Problems Book)
-2. Intermediate Problems
-3. Advanced Problems
+1. Introductory Problems (From SQL Practice Problems Book) (1 → 19)
+2. Intermediate Problems (1 → 11)
+3. Advanced Problems (1 → 25)
 4. Custom Vehicle Database Problems (1 → 80)
 
 ---
@@ -124,18 +124,6 @@ those rows with an OrderID of less than 10300.
 
 
 # 🟡 Intermediate Problems
-
-
-
-### 1. Which shippers do we have?
-Return all fields from the `Shippers` table.
-
-### 1. Which shippers do we have?
-Return all fields from the `Shippers` table.
-
-### 1. Which shippers do we have?
-Return all fields from the `Shippers` table.
-
 
 ### 20. Categories, and the total products in each category
 For this problem, we’d like to see the total number of products in each
