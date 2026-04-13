@@ -395,11 +395,8 @@ this problem, we will not be using Window functions.
 There’s another way of solving the problem above, using Window
 functions. We would like to see the following results.
 
-## Overview
 
-This repository contains a collection of 80 solved SQL problems, covering a wide range of SQL concepts. The solutions demonstrate best practices in writing efficient and optimized SQL queries.
-
-## Table of Contents
+## Custom Vehicle Database Problems (1 → 80)
 1. [Problem - 01: Create Master View](#problem-01-create-master-view)
 2. [Problem - 02: Get all vehicles made between 1950 and 2000](#problem-02-get-all-vehicles-made-between-1950-and-2000)
 3. [Problem - 03: Get number of vehicles made between 1950 and 2000](#problem-03-get-number-of-vehicles-made-between-1950-and-2000)
